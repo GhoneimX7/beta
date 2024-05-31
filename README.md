@@ -36,7 +36,7 @@ password: hr			or		employee
 create a mySQL database called "crewper" and run the application
 
 
-##JSONs and Request URLs
+## JSONs and Request URLs
 http://localhost:8081/api/v1/vacation/request?startDate=2020-03-12&endDate=2020-03-12
 
 {
